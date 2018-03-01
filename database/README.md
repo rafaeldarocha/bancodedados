@@ -205,7 +205,7 @@ Em breve.
 
 10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>.
 
-11. Execute o arquivo `ces_erp.sql` escolhendo o comando `run in postgres` na paleta de comandos.
+11. Execute o arquivo `postgre.sql` escolhendo o comando `run in postgres` na paleta de comandos.
 
 ## Próximos passos
 
