@@ -163,7 +163,7 @@ Em breve.
 
 4. Utilize as seguintes configurações do usuário.
 
-    ```JSON
+    ```json
     {
         "editor.fontFamily": "Fira Code",
         "editor.fontSize": 14,
@@ -201,7 +201,11 @@ Em breve.
     # docker ps -a
     ```
 
-9. BAIXAR PROJETO
+9. Baixe o projeto e abror o arquivo `postgre.sql`.
+
+    ```git
+    git clone https://github.com/incompletude/database-slingshot.git
+    ```
 
 10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>.
 
