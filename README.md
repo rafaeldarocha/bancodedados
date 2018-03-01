@@ -4,19 +4,19 @@ Versão alfa
 
 ## Tabela de conteúdos
 
-  * [Indentação](#indenta-o)
+  * [Indentação](#indenta%C3%A7%C3%A3o)
   * [Tabelas](#tabelas)
   * [Colunas reservadas](#colunas-reservadas)
   * [Enumeradores](#enumeradores)
-  * [Chaves, índices e sequências](#chaves-ndices-e-sequ-ncias)
-  * [Funções](#fun-es)
+  * [Chaves, índices e sequências](#chaves-%C3%ADndices-e-sequ%C3%AAncias)
+  * [Funções](#fun%C3%A7%C3%B5es)
   * [Gatilhos](#gatilhos)
   * [Procedimentos armazenados](#procedimentos-armazenados)
   * [Ambiente](#ambiente)
     * [Git](#git)
     * [Docker](#docker)
     * [Visual Studio Code](#visual-studio-code)
-  * [Próximos passos](#pr-ximos-passos)
+  * [Próximos passos](#pr%C3%B3ximos-passos)
 
 ## Indentação
 
