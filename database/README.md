@@ -1,4 +1,4 @@
-# CES_ERP - PostgreSQL
+# PostgreSQL
 
 Versão alfa
 
@@ -157,7 +157,7 @@ Em breve.
 
 1. (Recomendado) Instale a fonte de programação com ligaduras [Fira Code](https://github.com/tonsky/FiraCode/releases).
 
-2. Instale e abra o [Visual Studio Code](https://code.visualstudio.com).
+2. Instale e abra a pasta dedicada ao projeto no [Visual Studio Code](https://code.visualstudio.com).
 
 3. Abra as configurações do usuário <kbd>CTRL</kbd>+<kbd>,</kbd>.
 
@@ -165,9 +165,9 @@ Em breve.
 
     ```JSON
     {
-        "editor.fontFamily": "Fira Code", /* Recomendado */
-        "editor.fontSize": 14, /* Recomendado */
-        "editor.fontLigatures": true, /* Recomendado */
+        "editor.fontFamily": "Fira Code",
+        "editor.fontSize": 14,
+        "editor.fontLigatures": true,
         "editor.tabSize": 4,
         "editor.renderWhitespace": "all",
         "editor.insertSpaces": true,
@@ -210,5 +210,3 @@ Em breve.
 ## Próximos passos
 
   * Escalabilidade com partições.
-
-
