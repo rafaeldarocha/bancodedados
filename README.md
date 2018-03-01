@@ -204,7 +204,7 @@ Em breve.
 9. Baixe o projeto e abra o arquivo `postgre.sql`.
 
     ```git
-    git clone https://github.com/incompletude/database-slingshot.git
+    git clone https://github.com/incompletude/bancodedados.git
     ```
 
 10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
