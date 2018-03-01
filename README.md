@@ -157,7 +157,7 @@ Em breve.
 
 1. (Recomendado) Instale a fonte de programação com ligaduras [Fira Code](https://github.com/tonsky/FiraCode/releases).
 
-2. Instale e abra a pasta dedicada ao projeto no [Visual Studio Code](https://code.visualstudio.com).
+2. Instale e abra a pasta dedicada a projetos no [Visual Studio Code](https://code.visualstudio.com).
 
 3. Abra as configurações do usuário <kbd>CTRL</kbd>+<kbd>,</kbd>.
 
@@ -207,9 +207,7 @@ Em breve.
     git clone https://github.com/incompletude/database-slingshot.git
     ```
 
-10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>.
-
-11. Execute o arquivo `postgre.sql` escolhendo o comando `run in postgres` na paleta de comandos.
+10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres` na paleta de comandos.
 
 ## Próximos passos
 
