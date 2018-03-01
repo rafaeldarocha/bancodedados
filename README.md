@@ -201,7 +201,7 @@ Em breve.
     # docker ps -a
     ```
 
-9. Baixe o projeto e abror o arquivo `postgre.sql`.
+9. Baixe o projeto e abra o arquivo `postgre.sql`.
 
     ```git
     git clone https://github.com/incompletude/database-slingshot.git
