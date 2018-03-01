@@ -207,7 +207,7 @@ Em breve.
     git clone https://github.com/incompletude/database-slingshot.git
     ```
 
-10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres` na paleta de comandos.
+10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
 
 ## Próximos passos
 
