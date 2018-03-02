@@ -157,11 +157,9 @@ Em breve.
 
 1. (Recomendado) Instale a fonte de programação com ligaduras [Fira Code](https://github.com/tonsky/FiraCode/releases).
 
-2. Instale e abra a pasta dedicada a projetos no [Visual Studio Code](https://code.visualstudio.com).
+2. Instale o [Visual Studio Code](https://code.visualstudio.com) e abra a pasta de projetos.
 
-3. Abra as configurações do usuário <kbd>CTRL</kbd>+<kbd>,</kbd>.
-
-4. Utilize as seguintes configurações do usuário.
+3. Abra as configurações do usuário <kbd>CTRL</kbd>+<kbd>,</kbd> e altere as propriedades.
 
     ```json
     {
@@ -178,21 +176,21 @@ Em breve.
     }
     ```
 
-5. Abra o terminal PowerShell integrado <kbd>CTRL</kbd>+<kbd>`</kbd>.
+4. Abra o terminal PowerShell integrado <kbd>CTRL</kbd>+<kbd>`</kbd>.
 
-6. Instale a extensão [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=JPTarquino.postgresql) no Visual Studio Code.
+5. Instale a extensão [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=JPTarquino.postgresql) no Visual Studio Code.
 
     ```powershell
     code --install-extension doublefint.pgsql
     ```
 
-7. Baixe a imagem do [PostgreSQL](https://hub.docker.com/r/library/postgres/) no Docker.
+6. Baixe a imagem do [PostgreSQL](https://hub.docker.com/r/library/postgres/) no Docker.
 
     ```powershell
     docker pull postgres
     ```
 
-8. Inicie um recipiente PostgreSQL no Docker.
+7. Inicie um recipiente PostgreSQL no Docker.
 
     ```powershell
     docker run --name postgres-dev -e POSTGRES_USER=dev -e POSTGRES_PASSWORD=Password1 -p 5432:5432 -d postgres
@@ -201,13 +199,13 @@ Em breve.
     # docker ps -a
     ```
 
-9. Baixe o projeto e abra o arquivo `postgre.sql`.
+8. Baixe o projeto e abra o arquivo `postgre.sql`.
 
     ```git
     git clone https://github.com/incompletude/bancodedados.git
     ```
 
-10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
+9. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
 
 ## Próximos passos
 
