@@ -17,7 +17,6 @@ Versão alfa
     * [Git](#git)
     * [Docker](#docker)
     * [Projeto](#projeto)
-    * [Node.js](#node-js)
   * [Próximos passos](#próximos-passos)
 
 ## Indentação
@@ -231,8 +230,6 @@ Em breve.
     ```
 
 9. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
-
-### Node.js
 
 ## Próximos passos
 
