@@ -145,13 +145,22 @@ Em breve.
 1. Instale o [Git para Windows](https://git-scm.com/download/win) com as opções abaixo.
 
     ```
-    Git LFS, Associate .git* configuration files with the default text editor, Associate .sh files to be run with Bash
+    Git LFS
+    Associate .git* configuration files with the default text editor
+    Associate .sh files to be run with Bash
+
     Use Visual Studio Code as Git's default editor
+
     Use Git from the Windows Command Prompt
+
     Use the OpenSSL library
+
     Checkout Windows-style, commit Unix-style line endings
+
     Use MinTTY
-    Enable file system caching; Enable GIT Credential Manager
+
+    Enable file system caching
+    Enable GIT Credential Manager
     ```
 
 ### Docker
