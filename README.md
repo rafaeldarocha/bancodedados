@@ -8,14 +8,16 @@ Versão alfa
   * [Tabelas](#tabelas)
   * [Colunas reservadas](#colunas-reservadas)
   * [Enumeradores](#enumeradores)
-  * [Chaves, índices e sequências](#chaves-íbdices-e-sequências)
+  * [Chaves, índices e sequências](#chaves-índices-e-sequências)
   * [Funções](#funções)
   * [Gatilhos](#gatilhos)
   * [Procedimentos armazenados](#procedimentos-armazenados)
   * [Ambiente](#ambiente)
+    * [Visual Studio Code](#visual-studio-code)
     * [Git](#git)
     * [Docker](#docker)
-    * [Visual Studio Code](#visual-studio-code)
+    * [Projeto](#projeto)
+    * [Node.js](#node-js)
   * [Próximos passos](#próximos-passos)
 
 ## Indentação
@@ -132,9 +134,28 @@ Em breve.
 
 ## Ambiente
 
+### Visual Studio Code
+
+1. (Recomendado) Instale a fonte de programação com ligaduras [Fira Code](https://github.com/tonsky/FiraCode/releases).
+
+2. Instale o [Visual Studio Code](https://code.visualstudio.com).
+
 ### Git
 
-1. Instale o [Git para Windows](https://git-scm.com/download/win).
+1. Instale o [Git para Windows](https://git-scm.com/download/win) com as opções abaixo.
+
+    Use Visual Studio Code as Git's default editor
+
+    Use Git from the Windows Command Prompt
+
+    Use the OpenSSL library
+
+    Checkout Windows-style, commit Unix-style line endings
+
+    Use MinTTY
+
+    Enable file system caching
+    Enable GIT Credential Manager
 
 ### Docker
 
@@ -153,13 +174,11 @@ Em breve.
 
 2. Instale o [Docker para Windows](https://www.docker.com/docker-windows).
 
-### Visual Studio Code
+### Projeto
 
-1. (Recomendado) Instale a fonte de programação com ligaduras [Fira Code](https://github.com/tonsky/FiraCode/releases).
+1. Abra o Visual Studio Code e a pasta para projetos.
 
-2. Instale o [Visual Studio Code](https://code.visualstudio.com) e abra a pasta de projetos.
-
-3. Abra as configurações do usuário <kbd>CTRL</kbd>+<kbd>,</kbd> e altere as propriedades.
+2. Abra as configurações do usuário <kbd>CTRL</kbd>+<kbd>,</kbd> e altere as propriedades abaixo.
 
     ```json
     {
@@ -206,6 +225,8 @@ Em breve.
     ```
 
 9. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
+
+### Node.js
 
 ## Próximos passos
 

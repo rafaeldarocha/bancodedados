@@ -246,8 +246,7 @@ VALUES (
     DEFAULT,
     1,
     'Grupo Teste'
-)
-RETURNING *;
+) RETURNING *;
 
 INSERT INTO filiais
 VALUES (
@@ -255,12 +254,10 @@ VALUES (
     1,
     'Filial Teste',
     'FT'
-)
-RETURNING *;
+) RETURNING *;
 
 INSERT INTO usuarios_filiais
 VALUES (
     1,
     1
-)
-RETURNING *;
+) RETURNING *;
