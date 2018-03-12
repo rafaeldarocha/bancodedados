@@ -222,6 +222,8 @@ Em breve.
     # Verifique se o recipiente está ativo
     # docker ps -a
     ```
+    
+8. Reinicie o Visual Studio Code.    
 
 8. Baixe o projeto e abra o arquivo `postgre.sql`.
 
