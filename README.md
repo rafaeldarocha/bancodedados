@@ -222,14 +222,16 @@ Em breve.
     # Verifique se o recipiente está ativo
     # docker ps -a
     ```
+    
+8. Reinicie o Visual Studio Code.    
 
-8. Baixe o projeto e abra o arquivo `postgre.sql`.
+9. Baixe o projeto e abra o arquivo `postgre.sql`.
 
     ```git
     git clone https://github.com/incompletude/bancodedados.git
     ```
 
-9. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
+10. Abra a paleta de comandos <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd> e execute o arquivo `postgre.sql` escolhendo o comando `run in postgres`.
 
 ## Próximos passos
 
